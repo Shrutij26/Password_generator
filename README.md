@@ -23,6 +23,6 @@ This is a simple Python script that creates a random, strong password! 😎 You 
 
 📋 Command to Run
 Clone the repo and run this command to start the generator:
-
+https://github.com/Shrutij26/Password_generator.git
 
 Built with 💖 by Shruti
