@@ -1,6 +1,8 @@
 
 PyPassword Generator 🔐✨
+
 📝 Description
+
 This is a simple Python script that creates a random, strong password! 😎 You tell it how many letters, symbols, and numbers you want, and it mixes them up to make a secure password. 🛡️ It’s perfect for keeping your accounts safe! 💪
 
 🅰️ Lets you choose the number of letters, symbols, and numbers.
