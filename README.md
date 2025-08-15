@@ -5,6 +5,8 @@ PyPassword Generator 🔐✨
 
 This is a simple Python script that creates a random, strong password! 😎 You tell it how many letters, symbols, and numbers you want, and it mixes them up to make a secure password. 🛡️ It’s perfect for keeping your accounts safe! 💪
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🅰️ Lets you choose the number of letters, symbols, and numbers.
 
 🔢 Uses uppercase and lowercase letters, digits, and special symbols.
@@ -13,14 +15,17 @@ This is a simple Python script that creates a random, strong password! 😎 You 
 
 🖥️ Easy to use with a command-line interface.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tools Used
+🛠️ Tools Used 
 
 🐍 Python 3: The main programming language.
 
 🎲 random module: Built-in Python module to pick random characters and shuffle them.
 
 💻 Command Line: For user inputs and showing the password.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 😓 Challenges Faced
 
@@ -32,8 +37,14 @@ This is a simple Python script that creates a random, strong password! 😎 You 
 
 📏 Keeping the code simple but flexible for different password lengths was a challenge.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📋 Command to Run
+
 Clone the repo and run this command to start the generator:
+
 https://github.com/Shrutij26/Password_generator.git
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Built with 💖 by Shruti
